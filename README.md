@@ -1,4 +1,8 @@
 # Simple Exercise Tracking App 
+## Made on MERN stack
+## MongoDB URI is not integrated.
+## Please create instance on mongo db atlas and connect via .env file in backend directory
+
   Steps to run:
   * Go to directory in Terminal.
   * Run npm install
